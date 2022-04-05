@@ -8,3 +8,4 @@ Shell variables expansions
 6-Creating new local variable
 7-Creating a global variable
 8-Addition to value stored in an environment variable
+9-Divide and rule
