@@ -15,3 +15,4 @@ Shell variables expansions
 13-Print float
 14-Decimal to hexadecimal
 15-Encoding and decoding using rot13
+16-Printing odd lines
