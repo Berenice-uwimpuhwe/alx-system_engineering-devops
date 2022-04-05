@@ -14,3 +14,4 @@ Shell variables expansions
 12-Letter combinations except oo
 13-Print float
 14-Decimal to hexadecimal
+15-Encoding and decoding using rot13
