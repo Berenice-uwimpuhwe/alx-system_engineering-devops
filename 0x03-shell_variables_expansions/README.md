@@ -9,3 +9,4 @@ Shell variables expansions
 7-Creating a global variable
 8-Addition to value stored in an environment variable
 9-Divide and rule
+10-Love exponent breath
