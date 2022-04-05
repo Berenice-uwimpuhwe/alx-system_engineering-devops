@@ -10,3 +10,4 @@ Shell variables expansions
 8-Addition to value stored in an environment variable
 9-Divide and rule
 10-Love exponent breath
+11-Binary to decimal
